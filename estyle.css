@@ -1,0 +1,16 @@
+body 
+{
+	font-size: 18px;
+	color:rgb(0, 141, 63);
+	letter-spacing: 9px;
+	font-family: serif;
+	border-radius: 18px;
+	overflow: scroll;
+	padding: 10px;
+	display: block;
+	background-image: radial-gradient(#eccfe5 20%, #90EE90 20%);
+	background-position: 0 0;
+	background-size: 100px 100px;
+	height: 300px;
+	width: 99%;
+}
